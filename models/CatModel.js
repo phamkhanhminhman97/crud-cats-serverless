@@ -1,7 +1,4 @@
-/**
- * Created by trungquandev.com's author on 05/12/2018.
- * models/CatModel.js
- */
+
 
 let Joi = require("joi");
 let dynamo = require("dynamodb");
